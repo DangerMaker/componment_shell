@@ -1,0 +1,3 @@
+[submodule "base"]
+	path = base
+	url = https://github.com/DangerMaker/component_base.git
